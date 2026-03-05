@@ -1,3 +1,2 @@
-# aula-1
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/FelipeHirosi/aula-1)
+Oi, meu nome é Felipe! 
+Este repository está sendo criado como teste na aula de back-end no CECM Marquês de Caravelas.
